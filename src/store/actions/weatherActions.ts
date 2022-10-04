@@ -19,6 +19,7 @@ export const getWeather = (city: string): ThunkAction<void, RootState, null, Wea
             });
         }catch(err) {
             // @ts-ignore
+            // @ts-ignore
             dispatch({
                 type: SET_ERROR,
                 payload: err.message
