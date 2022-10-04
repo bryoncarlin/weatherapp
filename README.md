@@ -1,4 +1,4 @@
-#Gif
+#Example
 ![](https://github.com/bryoncarlin/weatherapp/blob/master/Weather.gif)
 
 # Getting Started with Create React App
